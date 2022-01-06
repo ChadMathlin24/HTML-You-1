@@ -1,8 +1,8 @@
 # HTML-You
 
 <html>
-<h3><center> Hello, I'm Kathryna born and raised in Brooklyn, NY.</center></h3>
-<img src= <a href="https://ibb.co/MZ0msxQ"><img src="https://i.ibb.co/MZ0msxQ/IMG-Kathryna.jpg" alt="IMG-Kathryna" border="0"></a> 
+<h3><center>" Hello, I'm Kathryna born and raised in Brooklyn, NY."</center></h3>
+<img src= <<a href="https://ibb.co/MZ0msxQ"><img src="https://i.ibb.co/NtBMsdb/IMG-Kathryna.jpg" alt="IMG-Kathryna" border="0"></a> 
 
 <div>
 <p> I began my journey at Medgar Evers college, where I am now a senior scholar graduating with a BS in Computer Info Sys.</p>
