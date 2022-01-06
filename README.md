@@ -1,8 +1,13 @@
 # HTML-You
 
+<! DOCTYPE html>
 <html>
+<head>
+<body>
+
+
 <h3><center>" Hello, I'm Kathryna born and raised in Brooklyn, NY."</center></h3>
-<img src= <<a href="https://ibb.co/MZ0msxQ"><img src="https://i.ibb.co/NtBMsdb/IMG-Kathryna.jpg" alt="IMG-Kathryna" border="0"></a> 
+<img src= <"https://ibb.co/MZ0msxQ"></a> 
 
 <div>
 <p> I began my journey at Medgar Evers college, where I am now a senior scholar graduating with a BS in Computer Info Sys.</p>
@@ -12,9 +17,11 @@
 </div>
 
 <div>
-<h5><b>
+<h5>
+<b>
  Things that interest me
- </b></h5>
+ </b>
+ </h5>
  <ul>
  <li>Exploring international cultures</li>
  <li>Gardening</li>
@@ -23,14 +30,21 @@
  </div>
 
  <div>
- <h5><b>
+ <h5>
+ <b>
  Goals, Dreams and Mentor
- </b></h5>
+ </b>
+ </h5>
  <ul>
  <li> The goal is to graduate so i can further provide for my family.</li>
  <li> Life has changed so much since this pandemic so has my dreams.</li>
  <li> I think Beyonce would be my mentor because of her humbleness, work ethic and dedication.</li>
  </div>
+
+
+</head>
+</body>
+
 
  </html>
 
